@@ -1,3 +1,21 @@
 /*
  * Estilos de tu proyecto
  */
+ .header-items {
+   font-size: 14px;
+ }
+
+.start-bootstrap {
+  height: 700px;
+  background-color: #009977;
+}
+
+.sb-img {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+h1 {
+  font-size: 70px;
+}
