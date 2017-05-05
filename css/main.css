@@ -18,4 +18,9 @@
 
 h1 {
   font-size: 70px;
+  color: #fff;
+}
+
+.sb-title:hover {
+  opacity: 70%;
 }
